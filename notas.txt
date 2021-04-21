@@ -1,0 +1,2 @@
+Pendiente CSS
+Resolver Logica de navegacion a traves de botones
